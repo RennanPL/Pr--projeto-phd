@@ -1,0 +1,18 @@
+("Health Topics" OR "Public Health" OR "Global Health Issues" OR "Health Themes" OR "Healthcare Topics" OR "Health Policy")
+AND ("International Organizations" OR "Global Institutions" OR "Multilateral Organizations" OR "International Bodies" OR "Intergovernmental Organizations" OR "Supranational Organizations")
+AND ("Global Health Governance" OR "Global Health Policy" OR "International Health Governance" OR "Global Health Leadership" OR "Health Diplomacy")
+AND ("Network Analysis" OR "Social Network Analysis" OR "Graph Theory" OR "Citation Networks" OR "Network Theory")
+AND ("Cluster Detection" OR "Cluster Analysis" OR "Community Detection" OR "Clustering Algorithms" OR "Pattern Recognition")
+- "Mental Health" - "Personal Health" - "Health Insurance" - "Non-Governmental Organizations" - "Private Organizations" - "Corporate Organizations" - "Corporate Governance" - "National Health Policy" - "Local Health Governance" - "Computer Networks" - "Telecommunication Networks" - "Networking Events" - "Cluster Computing" - "Clustered Servers" - "Geographic Clusters"
+
+
+
+------
+
+
+("Health Topics" OR "Public Health" OR "Global Health Issues" OR "Health Themes" OR "Healthcare Topics" OR "Health Policy")
+AND ("International Organizations" OR "Global Institutions" OR "Multilateral Organizations" OR "International Bodies" OR "Intergovernmental Organizations" OR "Supranational Organizations")
+AND ("Global Health Governance" OR "Global Health Policy" OR "International Health Governance" OR "Global Health Leadership" OR "Health Diplomacy")
+AND ("Network Analysis" OR "Social Network Analysis" OR "Graph Theory" OR "Citation Networks" OR "Network Theory")
+AND ("Cluster Detection" OR "Cluster Analysis" OR "Community Detection" OR "Clustering Algorithms" OR "Pattern Recognition")
+- "Mental Health" - "Personal Health" - "Health Insurance" - "Non-Governmental Organizations" - "Private Organizations" - "Corporate Organizations" - "Corporate Governance" - "National Health Policy" - "Local Health Governance" - "Computer Networks" - "Telecommunication Networks" - "Networking Events" - "Cluster Computing" - "Clustered Servers" - "Geographic Clusters"
